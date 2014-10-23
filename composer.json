@@ -1,0 +1,13 @@
+{
+    "name": "iamiamp/composer_hi",
+    "description": "This is a test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "A Z",
+            "email": "iamiamp@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
